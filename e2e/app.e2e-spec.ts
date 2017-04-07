@@ -1,6 +1,6 @@
 import { LeGuruPage } from './app.po';
 
-describe('le-guru App', function() {
+describe('le-guru App', () => {
   let page: LeGuruPage;
 
   beforeEach(() => {
